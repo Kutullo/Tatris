@@ -1,0 +1,37 @@
+﻿  Tatris.cpp
+d:\my work\c++\tatris\tatris\tatris.cpp(135): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(136): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(138): warning C4018: '<' : signed/unsigned mismatch
+d:\my work\c++\tatris\tatris\tatris.cpp(142): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(149): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(151): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(167): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(168): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(170): warning C4018: '<' : signed/unsigned mismatch
+d:\my work\c++\tatris\tatris\tatris.cpp(202): warning C4018: '<' : signed/unsigned mismatch
+d:\my work\c++\tatris\tatris\tatris.cpp(205): warning C4018: '<' : signed/unsigned mismatch
+d:\my work\c++\tatris\tatris\tatris.cpp(223): warning C4018: '<' : signed/unsigned mismatch
+d:\my work\c++\tatris\tatris\tatris.cpp(231): warning C4018: '<' : signed/unsigned mismatch
+d:\my work\c++\tatris\tatris\tatris.cpp(233): warning C4018: '<' : signed/unsigned mismatch
+d:\my work\c++\tatris\tatris\tatris.cpp(247): warning C4018: '<' : signed/unsigned mismatch
+d:\my work\c++\tatris\tatris\tatris.cpp(249): warning C4018: '<' : signed/unsigned mismatch
+d:\my work\c++\tatris\tatris\tatris.cpp(251): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(252): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(264): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(265): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(278): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(280): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(282): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(285): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(287): warning C4244: 'argument' : conversion from 'int' to 'GLfloat', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(295): warning C4018: '<' : signed/unsigned mismatch
+d:\my work\c++\tatris\tatris\tatris.cpp(297): warning C4018: '<' : signed/unsigned mismatch
+d:\my work\c++\tatris\tatris\tatris.cpp(300): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+d:\my work\c++\tatris\tatris\tatris.cpp(301): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+d:\my work\c++\tatris\tatris\main.cpp(28): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+d:\my work\c++\tatris\tatris\main.cpp(96): warning C4244: 'initializing' : conversion from 'double' to 'const float', possible loss of data
+  Generating Code...
+  Tatris.vcxproj -> D:\My work\C++\Tatris\Tatris\Debug\Tatris.exe
